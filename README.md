@@ -1,0 +1,2 @@
+# 00_hello_triangle_emscripten
+Emscripten porting example of capnramses/antons_opengl_tutorials_book/00_hello_triangle
